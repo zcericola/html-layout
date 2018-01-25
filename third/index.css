@@ -1,0 +1,46 @@
+body {
+    margin: 0 auto;
+    width: auto;
+}
+
+.one {
+    
+    background-color: lightgray;
+    height: 12vh;    
+
+}
+
+.logo {
+    float: left;
+    height: 65px;
+    width: 65px;
+    background-color: royalblue;
+    margin: 5px 20px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 28px;
+    margin: 4%;
+    letter-spacing: 2px;
+}
+
+.three {
+    background-color: royalblue;
+    height: 12vh;
+
+}
+
+.four {
+    background-color: rgb(74, 235, 195);
+    height: 12vh;
+
+}
+.five {
+    background-color: rgb(192, 245, 123);
+    height: 12vh;
+}
+.six {
+    background-color: yellow;
+    height: 12vh;
+}
