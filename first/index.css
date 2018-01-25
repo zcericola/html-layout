@@ -1,0 +1,28 @@
+header {    
+    height: 20vh;
+    width: auto;
+    background-color: rgb(58, 64, 70);
+}
+
+.container-left {
+    width: 15%;
+    height: 80vh;
+    float: left;
+    background-color: lightgray;
+
+}
+
+.container-right {
+    width: 15%;
+    height: 80vh;
+    float: right;
+    background-color: lightgray;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #232323;   
+    height: 10vh;
+    width: 100%; 
+}
